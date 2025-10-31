@@ -21,9 +21,8 @@ I love bringing ideas to life through clean code and thoughtful design. My goal 
 - SQL
 
 - ### **Design**
-- Figma / Adobe XD
+- Figma
 - Wireframing & Prototyping
-- Color Theory & Typography
 
 <!--
 **Rpiro1/rpiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
