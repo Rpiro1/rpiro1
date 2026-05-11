@@ -17,7 +17,7 @@ I love bringing ideas to life through clean code and thoughtful design. My goal 
 - UI/UX Principles
 
 - ### **Backend**
-- Learning PHP
+- PHP
 - SQL
 
 - ### **Design**
